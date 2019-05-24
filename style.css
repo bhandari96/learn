@@ -1,1 +1,17 @@
+body {
+    color:green;
+    text-align: center;
+    background-image: url("./bikelanes.jpg");
+    font-family: 'Aerial', 'Times New Roman', Times, serif;
+    font-size: 225%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
+h1 {
+    background-color: aquamarine;
+    width: 50%;
+    margin: auto;
+    padding: 5px;
+}
